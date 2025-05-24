@@ -1,6 +1,6 @@
 # Finger Slasher
 
-**Finger Slasher** is a Python-based Fruit Ninja style game that uses **real-time finger tracking via webcam** to control an on-screen blade and slice flying fruits. No mouse or keyboard — just your finger!
+**Finger Slasher** is a Python-based Fruit Ninja style game that uses **real-time finger tracking via webcam** to control an on-screen blade and slice flying fruits. No mouse or keyboard — just your finger :)
 
 ***
 
@@ -25,7 +25,6 @@ The game captures your index fingertip coordinates from the webcam and maps them
   <img src="./images/3.png" width="40%" />
 </p>
 
-***
 
 ## Controls:
 
@@ -34,7 +33,6 @@ The game captures your index fingertip coordinates from the webcam and maps them
 - Slicing a fruit increases your score.
 - Press `Q` or click the window close button to **exit** the game.
 
-***
 
 ## How to run the game:
 1. **Clone the repository**:
@@ -54,8 +52,6 @@ The game captures your index fingertip coordinates from the webcam and maps them
    ```bash
    python3 main.py
    ```
-
-***
 
 ## Notes:
 1. Make sure your webcam is functioning.
